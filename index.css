@@ -6,9 +6,9 @@ body {
   background-color: hsl(30, 54%, 90%);
 }
 .container {
-  padding: 3%;
+  padding: 2%;
   background-color: white;
-  width: 350px;
+  max-width: 600px;
   margin: 50px auto;
   border-radius: 2em;
 }
